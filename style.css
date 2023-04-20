@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+  
+}
+.container{
+    background-color: #262A56;
+    border-radius: 5px;
+    height: 40vh;
+    width: 20%;
+    position:absolute;
+    margin: 10%  40% auto;
+    padding: 20px;
+}
+.cel{
+    color: white;
+}
+.fah{
+    color: white;
+}
+#celsius{
+    width: 100%;
+    height: 5vh;
+    border-radius:10px;
+    outline: none;
+}
+#fahre{
+    width: 100%;
+    height: 5vh;
+    border-radius:10px;
+    outline: none;
+}
